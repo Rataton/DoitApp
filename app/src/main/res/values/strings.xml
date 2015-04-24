@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Do it</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Configuración</string>
+    <string name="action_info">¿Qué estás viendo?</string>
+    <string name="txt_frag1">Hola, soy un fragmento cualquiera</string>
+    <string name="txt_intro_desc">Este bloque de texto representa lo que quisiera informar desde un principio. Espero no resulte ser demasiado obvio.</string>
+    <string name="hint_intro">¿Cómo dices que te llamas?</string>
+    <string name="txt_btn_intro">SIGUIENTE</string>
+    <string name="title_activity_action">Bienvenid@</string>
+    <string name="txt_action_desc">Bienvenid@ seas!</string>
+    <string name="txt_hix">Hola</string>
+    <string name="txt_action_callto">¿Qué quieres hacer?</string>
+    <string name="txt_btn_face">VER EL FACE</string>
+    <string name="txt_btn_phone">LLAMAR A CASA</string>
+</resources>
